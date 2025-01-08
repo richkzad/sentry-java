@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Features
+
+- (Jetpack Compose) Modifier.sentryTag now uses Modifier.Node ([#4029](https://github.com/getsentry/sentry-java/pull/4029))
+
+
 ### Internal
 
 - Warm starts cleanup ([#3954](https://github.com/getsentry/sentry-java/pull/3954))
